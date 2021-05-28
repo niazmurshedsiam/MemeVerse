@@ -1,6 +1,6 @@
 <h1>MemeVerse</h1> <h5> -A full stack web app</h5>
    <ul> 
-	  <li> <a target="_blank" href="https://github.com/niazmurshedsiam/MemeVerse"> Client & Server Side Link</a>
+	  <li> <a target="_blank" href="https://github.com/niazmurshedsiam/MemeVerse"> Client & Server Side Code Link</a>
 	  
    </ul>
     
